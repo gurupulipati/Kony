@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="MapPolyLine" name="MapPolyLine">
+    <container isflex="false" displayname="Form" id="frmMap" type="form">
+        <component displayname="Map" id="map1235278714410197" type="map">
+            <attributes datatype="string" name="key" platform="general" value="Google map key is not defined in application properties"/>
+        </component>
+    </container>
+    <globalsequences/>
+    <skins/>
+</application>

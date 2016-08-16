@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="MapPolyLine" path="/Users/PRODUCT/SampleApp/MapWidget_iOS/temp/1470103093716/MapPolyLine">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+    <keywordSkinID>titleBar</keywordSkinID>
+</project>

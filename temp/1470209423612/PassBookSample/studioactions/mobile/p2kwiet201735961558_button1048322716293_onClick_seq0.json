@@ -1,0 +1,35 @@
+{
+    "p2kwiet201735961558_button1048322716293_onClick_seq0": {
+        "id": "p2kwiet201735961558_button1048322716293_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "decision_onClick_820782017359613556",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "isPassLibraryAvailable()"
+            }],
+            "criteria": "all"
+        }, {
+            "id": "decision_onClick_327072017359614221",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "criteria": "all"
+        }, {
+            "id": "expression_onClick_620712017359616186",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Pass Library available\");",
+            "parentId": "decision_onClick_820782017359613556"
+        }, {
+            "id": "expression_onClick_261201735961636",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Pass Library NOT available\");",
+            "parentId": "decision_onClick_327072017359614221"
+        }]
+    }
+}

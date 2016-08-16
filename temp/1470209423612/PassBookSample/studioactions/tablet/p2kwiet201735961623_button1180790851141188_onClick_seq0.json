@@ -1,0 +1,18 @@
+{
+    "p2kwiet201735961623_button1180790851141188_onClick_seq0": {
+        "id": "p2kwiet201735961623_button1180790851141188_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_408702017359613365",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "brdpasseEmpty",
+            "display": "brdpasseEmpty",
+            "inputparams": []
+        }]
+    }
+}

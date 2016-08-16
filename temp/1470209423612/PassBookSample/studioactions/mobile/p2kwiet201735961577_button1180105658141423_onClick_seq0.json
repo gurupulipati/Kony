@@ -1,0 +1,18 @@
+{
+    "p2kwiet201735961577_button1180105658141423_onClick_seq0": {
+        "id": "p2kwiet201735961577_button1180105658141423_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_92003201735961963",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removeMissingPassFromLibrary",
+            "display": "removeMissingPassFromLibrary",
+            "inputparams": []
+        }]
+    }
+}

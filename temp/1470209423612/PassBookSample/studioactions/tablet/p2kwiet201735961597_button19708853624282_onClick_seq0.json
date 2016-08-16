@@ -1,0 +1,18 @@
+{
+    "p2kwiet201735961597_button19708853624282_onClick_seq0": {
+        "id": "p2kwiet201735961597_button19708853624282_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "customcode_onClick_460592017359612650",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addPassToPassLibraryInvalidContent",
+            "display": "addPassToPassLibraryInvalidContent",
+            "inputparams": []
+        }]
+    }
+}
